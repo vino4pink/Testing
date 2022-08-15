@@ -1,0 +1,5 @@
+maven  - build in java but supports languages like csharp,ruby,scala, python -maven exe
+ant  - build in java ann support java language
+gradle - Java (as well as Kotlin, Groovy, Scala), C/C++, and JavaScript.
+
+aws s3 cp "tmp/backup" s3://tttestttt-bucket/
