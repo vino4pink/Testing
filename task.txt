@@ -1,0 +1,15 @@
+create a user name and assign the user name to wheel group
+install java
+git tool install
+docker tool install
+nodejs tool install
+set banner
+
+
+RDS - aurora
+EFS 
+Cloudwatch Log group
+Amazon MQ - rabbitmq , apache active mq 
+AWS Opensearch
+What is ELK
+ElastiCache - Memcached / Redis
